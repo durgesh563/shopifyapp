@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/create-lead.js": {
-      "runtime": "nodejs18.x"
+     
     }
   }
 }
